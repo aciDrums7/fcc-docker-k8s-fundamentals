@@ -16,7 +16,8 @@ Type the following Docker commands:
 
 ## Attach to the container
 
-    docker container exec -it  webserver bash  
+    docker container exec -it  webserver bash (Win)
+    docker container exec -it  webserver bin/bash (Mac)
 
 Exit by typing
 
